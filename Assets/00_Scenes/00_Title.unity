@@ -131,6 +131,7 @@ GameObject:
   - component: {fileID: 412240820}
   - component: {fileID: 412240819}
   - component: {fileID: 412240818}
+  - component: {fileID: 412240821}
   m_Layer: 5
   m_Name: OverBtn
   m_TagString: Untagged
@@ -221,7 +222,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 1149052081131223334, guid: 946493669828f324198253123d21bd2b, type: 3}
+  m_Sprite: {fileID: 593512452, guid: 426e09a3f7beb8443bff204b633874e6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -239,6 +240,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 412240816}
   m_CullTransparentMesh: 1
+--- !u!114 &412240821
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 412240816}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e95a9940c6456148806a256dfa44f1e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GameQuit
 --- !u!1 &461951398
 GameObject:
   m_ObjectHideFlags: 0
@@ -289,7 +302,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.78431374}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.4509804}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -326,6 +339,7 @@ GameObject:
   - component: {fileID: 720283570}
   - component: {fileID: 720283569}
   - component: {fileID: 720283568}
+  - component: {fileID: 720283571}
   m_Layer: 5
   m_Name: StartBtn
   m_TagString: Untagged
@@ -434,6 +448,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 720283566}
   m_CullTransparentMesh: 1
+--- !u!114 &720283571
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 720283566}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f033661b7fc2e4499526819534989e7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GameStart
 --- !u!1 &1014661252
 GameObject:
   m_ObjectHideFlags: 0
@@ -711,7 +737,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 109}
-  m_SizeDelta: {x: 100, y: 100}
+  m_SizeDelta: {x: 125.4, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1140619167
 MonoBehaviour:
@@ -733,7 +759,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: -7352339073622421304, guid: 4512870950b60284ba99abe39ec9dad1, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

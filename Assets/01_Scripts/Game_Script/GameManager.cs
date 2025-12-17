@@ -2,15 +2,25 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public static GameManager Instance;
+
+    public bool IsPaused { get; private set; } = false;
+
+    private void Awake()
     {
-        
+        if (Instance == null) Instance = this;
+        else Destroy(gameObject);
     }
 
-    // Update is called once per frame
-    void Update()
+    public void PauseGame()
     {
-        
+        IsPaused = true;
+        Time.timeScale = 0f;
+    }
+
+    public void ResumeGame()
+    {
+        IsPaused = false;
+        Time.timeScale = 1f;
     }
 }
