@@ -23,7 +23,6 @@ public class BtnAction : MonoBehaviour
         {
             case "Dialog":
                 child?.SetActive(true);
-                
                 break;
             case "Scene":
                 SceneManager.LoadScene(context);

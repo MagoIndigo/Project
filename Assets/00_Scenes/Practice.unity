@@ -335,6 +335,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &147161716 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 8886230211977060831, guid: 9088c7f5502803a42b7d50f9fc5ea9e6, type: 3}
+  m_PrefabInstance: {fileID: 2599218872390527088}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1017659169
 GameObject:
   m_ObjectHideFlags: 0
@@ -452,6 +457,14 @@ PrefabInstance:
     - target: {fileID: 5190571788235845975, guid: 9088c7f5502803a42b7d50f9fc5ea9e6, type: 3}
       propertyPath: m_RaycastTarget
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5357458773023333723, guid: 9088c7f5502803a42b7d50f9fc5ea9e6, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 147161716}
+    - target: {fileID: 5357458773023333723, guid: 9088c7f5502803a42b7d50f9fc5ea9e6, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: PlayOneShot
       objectReference: {fileID: 0}
     - target: {fileID: 7900909486781303101, guid: 9088c7f5502803a42b7d50f9fc5ea9e6, type: 3}
       propertyPath: m_Pivot.x
