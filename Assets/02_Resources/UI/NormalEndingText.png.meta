@@ -1,0 +1,1167 @@
+fileFormatVersion: 2
+guid: ff567e2597f352c4eb3305bb5eee47ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5310048082492895952
+    second: NormalEndingText_0
+  - first:
+      213: 3493776995473407337
+    second: NormalEndingText_1
+  - first:
+      213: -5386927257465572543
+    second: NormalEndingText_2
+  - first:
+      213: -6267122104978670117
+    second: NormalEndingText_3
+  - first:
+      213: 4944466099795759892
+    second: NormalEndingText_4
+  - first:
+      213: -1475561246474010567
+    second: NormalEndingText_5
+  - first:
+      213: 8309551295362231092
+    second: NormalEndingText_6
+  - first:
+      213: -6772563189523314133
+    second: NormalEndingText_7
+  - first:
+      213: 7766254478398579568
+    second: NormalEndingText_8
+  - first:
+      213: -8599967039749485931
+    second: NormalEndingText_9
+  - first:
+      213: -5270371855336141049
+    second: NormalEndingText_10
+  - first:
+      213: -8623021403358787357
+    second: NormalEndingText_11
+  - first:
+      213: -3474098660183449666
+    second: NormalEndingText_12
+  - first:
+      213: -1266308270821738998
+    second: NormalEndingText_13
+  - first:
+      213: 850710786745187726
+    second: NormalEndingText_14
+  - first:
+      213: 8003923872235895093
+    second: NormalEndingText_15
+  - first:
+      213: -4647921383031303729
+    second: NormalEndingText_16
+  - first:
+      213: -160470375089365944
+    second: NormalEndingText_17
+  - first:
+      213: -3961031010600691684
+    second: NormalEndingText_18
+  - first:
+      213: -62054966877945066
+    second: NormalEndingText_19
+  - first:
+      213: 5942795125650448799
+    second: NormalEndingText_20
+  - first:
+      213: -6525916444021693634
+    second: NormalEndingText_21
+  - first:
+      213: -5080955811457444823
+    second: NormalEndingText_22
+  - first:
+      213: 8670459539807723564
+    second: NormalEndingText_23
+  - first:
+      213: 8153939350811017212
+    second: NormalEndingText_24
+  - first:
+      213: -2139297627100656292
+    second: NormalEndingText_25
+  - first:
+      213: -6639098810411270803
+    second: NormalEndingText_26
+  - first:
+      213: 7213225659354706835
+    second: NormalEndingText_27
+  - first:
+      213: -2021400710544659402
+    second: NormalEndingText_28
+  - first:
+      213: 8783767890176374690
+    second: NormalEndingText_29
+  - first:
+      213: -5600284027237353907
+    second: NormalEndingText_30
+  - first:
+      213: -2078405835476920602
+    second: NormalEndingText_31
+  - first:
+      213: 3574619355547406192
+    second: NormalEndingText_32
+  - first:
+      213: 7955955396486511551
+    second: NormalEndingText_33
+  - first:
+      213: -3025817630921111078
+    second: NormalEndingText_34
+  - first:
+      213: -8077755966682490394
+    second: NormalEndingText_35
+  - first:
+      213: -2248416286691440979
+    second: NormalEndingText_36
+  - first:
+      213: -8918330580017010699
+    second: NormalEndingText_37
+  - first:
+      213: 8468271308530238225
+    second: NormalEndingText_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NormalEndingText_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 109
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d44ce176bee46b0800000000000000
+      internalID: -5310048082492895952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 109
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dbf93aaa36c7030800000000000000
+      internalID: 3493776995473407337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_2
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 109
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14335e3533acd35b0800000000000000
+      internalID: -5386927257465572543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_3
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 109
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd7fb076a5b609a0800000000000000
+      internalID: -6267122104978670117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_4
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 171
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413994a88b54e9440800000000000000
+      internalID: 4944466099795759892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 109
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930859b3dd0c58be0800000000000000
+      internalID: -1475561246474010567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 109
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43be3f290e4715370800000000000000
+      internalID: 8309551295362231092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 109
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a839569a50302a0800000000000000
+      internalID: -6772563189523314133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 109
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073eb3cfc4747cb60800000000000000
+      internalID: 7766254478398579568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_9
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 109
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a0aabba87c6a880800000000000000
+      internalID: -8599967039749485931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_10
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 109
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f0970a8b0ebd6b0800000000000000
+      internalID: -5270371855336141049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_11
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 109
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8853a68bfd45880800000000000000
+      internalID: -8623021403358787357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_12
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 85
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfda15dca589cfc0800000000000000
+      internalID: -3474098660183449666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06f78d365b2d6ee0800000000000000
+      internalID: -1266308270821738998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 30
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d3a8a04f45ecb00800000000000000
+      internalID: 850710786745187726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 30
+        width: 67
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539b3edea56a31f60800000000000000
+      internalID: 8003923872235895093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_16
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 41
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc11a7cb0244f7fb0800000000000000
+      internalID: -4647921383031303729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_17
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 30
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c13d74b05e5cdf0800000000000000
+      internalID: -160470375089365944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_18
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 30
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18d6d448479709c0800000000000000
+      internalID: -3961031010600691684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_19
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 41
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61301be1659832ff0800000000000000
+      internalID: -62054966877945066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_20
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 30
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9161553eac097250800000000000000
+      internalID: 5942795125650448799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_21
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 30
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33e438e1994f65a0800000000000000
+      internalID: -6525916444021693634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_22
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 30
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9245f9a0c91dc79b0800000000000000
+      internalID: -5080955811457444823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_23
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 30
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20e2ad6309a35870800000000000000
+      internalID: 8670459539807723564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_24
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 30
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff7b2d53ac982170800000000000000
+      internalID: 8153939350811017212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_25
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 30
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d44d38420bf42e0800000000000000
+      internalID: -2139297627100656292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_26
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 4
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6db7b0bece2dd3a0800000000000000
+      internalID: -6639098810411270803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_27
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 29
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393f19615868a1460800000000000000
+      internalID: 7213225659354706835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c634b73ca82f3e0800000000000000
+      internalID: -2021400710544659402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 77
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7f1739b5636e970800000000000000
+      internalID: 8783767890176374690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_30
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 30
+        width: 77
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46393b495bc742b0800000000000000
+      internalID: -5600284027237353907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_31
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e69c4d87e40823e0800000000000000
+      internalID: -2078405835476920602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_32
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f83ae5d599b9130800000000000000
+      internalID: 3574619355547406192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_33
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 30
+        width: 77
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb3e68d74b396e60800000000000000
+      internalID: 7955955396486511551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_34
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 0
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad945d965e22206d0800000000000000
+      internalID: -3025817630921111078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_35
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9199ffebb06ef80800000000000000
+      internalID: -8077755966682490394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_36
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 0
+        width: 72
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6cd84cc450cc0e0800000000000000
+      internalID: -2248416286691440979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_37
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7259cb699bb3480800000000000000
+      internalID: -8918330580017010699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_38
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113c39663e7558570800000000000000
+      internalID: 8468271308530238225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalEndingText_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 829
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b979d54fd566fc4d90e450c6d6bf43c
+      internalID: -1022108199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e1a5952d55450834c808e3391e360711
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NormalEndingText_0: -5310048082492895952
+      NormalEndingText_1: 3493776995473407337
+      NormalEndingText_10: -5270371855336141049
+      NormalEndingText_11: -8623021403358787357
+      NormalEndingText_12: -3474098660183449666
+      NormalEndingText_13: -1266308270821738998
+      NormalEndingText_14: 850710786745187726
+      NormalEndingText_15: 8003923872235895093
+      NormalEndingText_16: -4647921383031303729
+      NormalEndingText_17: -160470375089365944
+      NormalEndingText_18: -3961031010600691684
+      NormalEndingText_19: -62054966877945066
+      NormalEndingText_2: -5386927257465572543
+      NormalEndingText_20: 5942795125650448799
+      NormalEndingText_21: -6525916444021693634
+      NormalEndingText_22: -5080955811457444823
+      NormalEndingText_23: 8670459539807723564
+      NormalEndingText_24: 8153939350811017212
+      NormalEndingText_25: -2139297627100656292
+      NormalEndingText_26: -6639098810411270803
+      NormalEndingText_27: 7213225659354706835
+      NormalEndingText_28: -2021400710544659402
+      NormalEndingText_29: 8783767890176374690
+      NormalEndingText_3: -6267122104978670117
+      NormalEndingText_30: -5600284027237353907
+      NormalEndingText_31: -2078405835476920602
+      NormalEndingText_32: 3574619355547406192
+      NormalEndingText_33: 7955955396486511551
+      NormalEndingText_34: -3025817630921111078
+      NormalEndingText_35: -8077755966682490394
+      NormalEndingText_36: -2248416286691440979
+      NormalEndingText_37: -8918330580017010699
+      NormalEndingText_38: 8468271308530238225
+      NormalEndingText_39: -1022108199
+      NormalEndingText_4: 4944466099795759892
+      NormalEndingText_5: -1475561246474010567
+      NormalEndingText_6: 8309551295362231092
+      NormalEndingText_7: -6772563189523314133
+      NormalEndingText_8: 7766254478398579568
+      NormalEndingText_9: -8599967039749485931
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

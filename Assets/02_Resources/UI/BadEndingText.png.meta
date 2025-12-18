@@ -1,0 +1,1323 @@
+fileFormatVersion: 2
+guid: cf16f75e83c250149857923f427c9aa5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3695431481680714753
+    second: BadEndingText_0
+  - first:
+      213: -2607486589094952872
+    second: BadEndingText_1
+  - first:
+      213: 2280017594979439431
+    second: BadEndingText_2
+  - first:
+      213: -388948241869120984
+    second: BadEndingText_3
+  - first:
+      213: 6377818126772867424
+    second: BadEndingText_4
+  - first:
+      213: 4160699621283356627
+    second: BadEndingText_5
+  - first:
+      213: 3850216157143103534
+    second: BadEndingText_6
+  - first:
+      213: -1203393178284136044
+    second: BadEndingText_7
+  - first:
+      213: -3158883438848533042
+    second: BadEndingText_8
+  - first:
+      213: -2945376958587074602
+    second: BadEndingText_9
+  - first:
+      213: -5996098552174749027
+    second: BadEndingText_10
+  - first:
+      213: -8230888052726882384
+    second: BadEndingText_11
+  - first:
+      213: -6186385124818514399
+    second: BadEndingText_12
+  - first:
+      213: -5437876580061822366
+    second: BadEndingText_13
+  - first:
+      213: 3329025252398416
+    second: BadEndingText_14
+  - first:
+      213: -4846000754699600098
+    second: BadEndingText_15
+  - first:
+      213: -2723249737553075745
+    second: BadEndingText_16
+  - first:
+      213: 5886247414425197347
+    second: BadEndingText_17
+  - first:
+      213: 144688880477868176
+    second: BadEndingText_18
+  - first:
+      213: 7707888785192068308
+    second: BadEndingText_19
+  - first:
+      213: 4429703441493135508
+    second: BadEndingText_20
+  - first:
+      213: 8972532496375844237
+    second: BadEndingText_21
+  - first:
+      213: 3839388908310338287
+    second: BadEndingText_22
+  - first:
+      213: -3151625466515419673
+    second: BadEndingText_23
+  - first:
+      213: 4454724076659440925
+    second: BadEndingText_24
+  - first:
+      213: -8143274768732374131
+    second: BadEndingText_25
+  - first:
+      213: -7215095286424546459
+    second: BadEndingText_26
+  - first:
+      213: -4438455615904318146
+    second: BadEndingText_27
+  - first:
+      213: 7492742478683778181
+    second: BadEndingText_28
+  - first:
+      213: 4974624295347548000
+    second: BadEndingText_29
+  - first:
+      213: -4224727082392929822
+    second: BadEndingText_30
+  - first:
+      213: 865713901089120160
+    second: BadEndingText_31
+  - first:
+      213: -8233370575308123085
+    second: BadEndingText_32
+  - first:
+      213: 3787940137696260230
+    second: BadEndingText_33
+  - first:
+      213: -5204562854903797427
+    second: BadEndingText_34
+  - first:
+      213: -6496406006361990714
+    second: BadEndingText_35
+  - first:
+      213: -7150607914987076992
+    second: BadEndingText_36
+  - first:
+      213: -375850522691626587
+    second: BadEndingText_37
+  - first:
+      213: -3236915898319965679
+    second: BadEndingText_38
+  - first:
+      213: 928269456526042430
+    second: BadEndingText_39
+  - first:
+      213: 1538850760757521568
+    second: BadEndingText_40
+  - first:
+      213: -1997906757067146163
+    second: BadEndingText_41
+  - first:
+      213: 4258372958174348337
+    second: BadEndingText_42
+  - first:
+      213: 1543950176584343544
+    second: BadEndingText_43
+  - first:
+      213: -4026072581288954428
+    second: BadEndingText_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BadEndingText_0
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 109
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff320aa85a037bcc0800000000000000
+      internalID: -3695431481680714753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_1
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 109
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850866423c850dbd0800000000000000
+      internalID: -2607486589094952872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_2
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 109
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743d36e2cef34af10800000000000000
+      internalID: 2280017594979439431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_3
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 109
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ad06f72ad2a9af0800000000000000
+      internalID: -388948241869120984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_4
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 171
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06118509bcf828850800000000000000
+      internalID: 6377818126772867424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_5
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 109
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df52bfd246cdb930800000000000000
+      internalID: 4160699621283356627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_6
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 109
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28fbf21237be6530800000000000000
+      internalID: 3850216157143103534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_7
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 109
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499ee3bb740bc4fe0800000000000000
+      internalID: -1203393178284136044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_8
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 109
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd9194bf346924d0800000000000000
+      internalID: -3158883438848533042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_9
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 85
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d70ccde24bef17d0800000000000000
+      internalID: -2945376958587074602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ad36fa22499cca0800000000000000
+      internalID: -5996098552174749027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 30
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf1537dce206cd80800000000000000
+      internalID: -8230888052726882384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 30
+        width: 67
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e8e6f718b852aa0800000000000000
+      internalID: -6186385124818514399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 41
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262cff0cf08c884b0800000000000000
+      internalID: -5437876580061822366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_14
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 30
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0551e971bb3db0000800000000000000
+      internalID: 3329025252398416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_15
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 30
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ffad22dfb8fbcb0800000000000000
+      internalID: -4846000754699600098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_16
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 30
+        width: 77
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd12976cac2153ad0800000000000000
+      internalID: -2723249737553075745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_17
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 4
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b10e436d620b150800000000000000
+      internalID: 5886247414425197347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_18
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 0
+        width: 15
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09015db25c9020200800000000000000
+      internalID: 144688880477868176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_19
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 30
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d42791130ce7fa60800000000000000
+      internalID: 7707888785192068308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_20
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 30
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490168a7fc7797d30800000000000000
+      internalID: 4429703441493135508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_21
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 41
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d812654c6d48c70800000000000000
+      internalID: 8972532496375844237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_22
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 4
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea9962cedf384530800000000000000
+      internalID: 3839388908310338287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_23
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 0
+        width: 15
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed0643165d2344d0800000000000000
+      internalID: -3151625466515419673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_24
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 4
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d7aa112fb52dd30800000000000000
+      internalID: 4454724076659440925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_25
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 0
+        width: 15
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b3e452eb64dfe80800000000000000
+      internalID: -8143274768732374131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_26
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 4
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563d1107015dedb90800000000000000
+      internalID: -7215095286424546459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_27
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 0
+        width: 15
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d7fae12207762c0800000000000000
+      internalID: -4438455615904318146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_28
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 30
+        width: 77
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c2d6b06919bf760800000000000000
+      internalID: 7492742478683778181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_29
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 30
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fe73f907a690540800000000000000
+      internalID: 4974624295347548000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_30
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 30
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e93ff42a11ce55c0800000000000000
+      internalID: -4224727082392929822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_31
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 4
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afd88fc432a30c00800000000000000
+      internalID: 865713901089120160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_32
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 0
+        width: 29
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3341b9285113dbd80800000000000000
+      internalID: -8233370575308123085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68074d16c77719430800000000000000
+      internalID: 3787940137696260230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 77
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49244e88ada5c7b0800000000000000
+      internalID: -5204562854903797427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 30
+        width: 77
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9541a182128d5a0800000000000000
+      internalID: -6496406006361990714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_36
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0824913acffe3cc90800000000000000
+      internalID: -7150607914987076992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_37
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a91252e0f5b8caf0800000000000000
+      internalID: -375850522691626587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_38
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 0
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112f2d0f32a2413d0800000000000000
+      internalID: -3236915898319965679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_39
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 0
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35641c0720e1ec00800000000000000
+      internalID: 928269456526042430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_40
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 30
+        width: 77
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acaa4d1d981b5510800000000000000
+      internalID: 1538850760757521568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_41
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 0
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cf8aac3620644e0800000000000000
+      internalID: -1997906757067146163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_42
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 0
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1348c15c4a7c81b30800000000000000
+      internalID: 4258372958174348337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_43
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff163261863d6510800000000000000
+      internalID: 1543950176584343544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_44
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5f45081548028c0800000000000000
+      internalID: -4026072581288954428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadEndingText_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1329
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645832f03ae59af4b93f4ad30d6db2cd
+      internalID: 906753274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e30b807a363c5440a2a0378c4412108
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BadEndingText_0: -3695431481680714753
+      BadEndingText_1: -2607486589094952872
+      BadEndingText_10: -5996098552174749027
+      BadEndingText_11: -8230888052726882384
+      BadEndingText_12: -6186385124818514399
+      BadEndingText_13: -5437876580061822366
+      BadEndingText_14: 3329025252398416
+      BadEndingText_15: -4846000754699600098
+      BadEndingText_16: -2723249737553075745
+      BadEndingText_17: 5886247414425197347
+      BadEndingText_18: 144688880477868176
+      BadEndingText_19: 7707888785192068308
+      BadEndingText_2: 2280017594979439431
+      BadEndingText_20: 4429703441493135508
+      BadEndingText_21: 8972532496375844237
+      BadEndingText_22: 3839388908310338287
+      BadEndingText_23: -3151625466515419673
+      BadEndingText_24: 4454724076659440925
+      BadEndingText_25: -8143274768732374131
+      BadEndingText_26: -7215095286424546459
+      BadEndingText_27: -4438455615904318146
+      BadEndingText_28: 7492742478683778181
+      BadEndingText_29: 4974624295347548000
+      BadEndingText_3: -388948241869120984
+      BadEndingText_30: -4224727082392929822
+      BadEndingText_31: 865713901089120160
+      BadEndingText_32: -8233370575308123085
+      BadEndingText_33: 3787940137696260230
+      BadEndingText_34: -5204562854903797427
+      BadEndingText_35: -6496406006361990714
+      BadEndingText_36: -7150607914987076992
+      BadEndingText_37: -375850522691626587
+      BadEndingText_38: -3236915898319965679
+      BadEndingText_39: 928269456526042430
+      BadEndingText_4: 6377818126772867424
+      BadEndingText_40: 1538850760757521568
+      BadEndingText_41: -1997906757067146163
+      BadEndingText_42: 4258372958174348337
+      BadEndingText_43: 1543950176584343544
+      BadEndingText_44: -4026072581288954428
+      BadEndingText_45: 906753274
+      BadEndingText_5: 4160699621283356627
+      BadEndingText_6: 3850216157143103534
+      BadEndingText_7: -1203393178284136044
+      BadEndingText_8: -3158883438848533042
+      BadEndingText_9: -2945376958587074602
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1401 @@
+fileFormatVersion: 2
+guid: 0b5cffda0ec76ea45a4dcc25e7a163bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3017259269695106671
+    second: GoodEndingText_0
+  - first:
+      213: -650408107069111419
+    second: GoodEndingText_1
+  - first:
+      213: -3303520225899297541
+    second: GoodEndingText_2
+  - first:
+      213: 7510374579223253663
+    second: GoodEndingText_3
+  - first:
+      213: -5574789981654440935
+    second: GoodEndingText_4
+  - first:
+      213: 3303067058176090771
+    second: GoodEndingText_5
+  - first:
+      213: -1423147487256581511
+    second: GoodEndingText_6
+  - first:
+      213: -879376614057940195
+    second: GoodEndingText_7
+  - first:
+      213: 7402547030907443660
+    second: GoodEndingText_8
+  - first:
+      213: 9085448497127766
+    second: GoodEndingText_9
+  - first:
+      213: -5439756858675258571
+    second: GoodEndingText_10
+  - first:
+      213: 8436313609593849807
+    second: GoodEndingText_11
+  - first:
+      213: -5118871893169454188
+    second: GoodEndingText_12
+  - first:
+      213: 5222725810912307423
+    second: GoodEndingText_13
+  - first:
+      213: 6452657326636940595
+    second: GoodEndingText_14
+  - first:
+      213: 8761881566084113952
+    second: GoodEndingText_15
+  - first:
+      213: 5632444222352165154
+    second: GoodEndingText_16
+  - first:
+      213: -5614631231289339020
+    second: GoodEndingText_17
+  - first:
+      213: 8985159546572262100
+    second: GoodEndingText_18
+  - first:
+      213: -3738589139095863999
+    second: GoodEndingText_19
+  - first:
+      213: 4794314227518068229
+    second: GoodEndingText_20
+  - first:
+      213: 5339972106919942342
+    second: GoodEndingText_21
+  - first:
+      213: 4056999532303792080
+    second: GoodEndingText_22
+  - first:
+      213: -7081398673814498770
+    second: GoodEndingText_23
+  - first:
+      213: -5522614813935098199
+    second: GoodEndingText_24
+  - first:
+      213: 2724660294962584069
+    second: GoodEndingText_25
+  - first:
+      213: -2540612863399620428
+    second: GoodEndingText_26
+  - first:
+      213: 169531055838557235
+    second: GoodEndingText_27
+  - first:
+      213: -1848237813402035524
+    second: GoodEndingText_28
+  - first:
+      213: -1077853909603457393
+    second: GoodEndingText_29
+  - first:
+      213: -8082693868853044143
+    second: GoodEndingText_30
+  - first:
+      213: -7151186693339263460
+    second: GoodEndingText_31
+  - first:
+      213: -7589374460488372518
+    second: GoodEndingText_32
+  - first:
+      213: 1000884764474465718
+    second: GoodEndingText_33
+  - first:
+      213: 985881270012080407
+    second: GoodEndingText_34
+  - first:
+      213: -7364114334393727964
+    second: GoodEndingText_35
+  - first:
+      213: -8529977625348658328
+    second: GoodEndingText_36
+  - first:
+      213: -7924416810422821594
+    second: GoodEndingText_37
+  - first:
+      213: -250382927016108843
+    second: GoodEndingText_38
+  - first:
+      213: 80746501546543118
+    second: GoodEndingText_39
+  - first:
+      213: -1725930263448560334
+    second: GoodEndingText_40
+  - first:
+      213: 5704497912332570810
+    second: GoodEndingText_41
+  - first:
+      213: -7290108565007498119
+    second: GoodEndingText_42
+  - first:
+      213: 2887217245731565336
+    second: GoodEndingText_43
+  - first:
+      213: 8077967915410189847
+    second: GoodEndingText_44
+  - first:
+      213: 7294790076826769663
+    second: GoodEndingText_45
+  - first:
+      213: -2808703766696837357
+    second: GoodEndingText_46
+  - first:
+      213: 506533370121472886
+    second: GoodEndingText_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GoodEndingText_0
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 109
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191919a2eaa8026d0800000000000000
+      internalID: -3017259269695106671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_1
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 109
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5838c1bc54949f6f0800000000000000
+      internalID: -650408107069111419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_2
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 109
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf444fa7bd98722d0800000000000000
+      internalID: -3303520225899297541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_3
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 109
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92d9bc53e53a3860800000000000000
+      internalID: 7510374579223253663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_4
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 171
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914a4165c0e52a2b0800000000000000
+      internalID: -5574789981654440935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 109
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39261ef2df9d6dd20800000000000000
+      internalID: 3303067058176090771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_6
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 109
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ae41786e6ff3ce0800000000000000
+      internalID: -1423147487256581511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_7
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 109
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b6a4fe0a3dbc3f0800000000000000
+      internalID: -879376614057940195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_8
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 109
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc95c52ed412bb660800000000000000
+      internalID: 7402547030907443660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_9
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 109
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651eb42da27402000800000000000000
+      internalID: 9085448497127766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_10
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 85
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b9a2645f91284b0800000000000000
+      internalID: -5439756858675258571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc782a9c78ec31570800000000000000
+      internalID: 8436313609593849807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 30
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49347e4522d16f8b0800000000000000
+      internalID: -5118871893169454188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 30
+        width: 67
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd821be2479da7840800000000000000
+      internalID: 5222725810912307423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_14
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 41
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d3483a6a17c8950800000000000000
+      internalID: 6452657326636940595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_15
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 4
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026ac76acd4789970800000000000000
+      internalID: 8761881566084113952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_16
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 30
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2298082ad267a2e40800000000000000
+      internalID: 5632444222352165154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_17
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 30
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4735f2a84a2d412b0800000000000000
+      internalID: -5614631231289339020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_18
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 30
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da46af8003b1bc70800000000000000
+      internalID: 8985159546572262100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_19
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 41
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dbe036cfcdd1cc0800000000000000
+      internalID: -3738589139095863999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_20
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 4
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506d0d87363d88240800000000000000
+      internalID: 4794314227518068229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 15
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8157fb6546b1a40800000000000000
+      internalID: 5339972106919942342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_22
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 4
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7b4e8649b5d4830800000000000000
+      internalID: 4056999532303792080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_23
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 0
+        width: 15
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e225d5ecc61d9bd90800000000000000
+      internalID: -7081398673814498770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_24
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 41
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6a618361bbb53b0800000000000000
+      internalID: -5522614813935098199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_25
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 4
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a1bd63a10ffc520800000000000000
+      internalID: 2724660294962584069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_26
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 0
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0174dbf0eedbcd0800000000000000
+      internalID: -2540612863399620428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_27
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 0
+        width: 15
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33477a9d89b4a5200800000000000000
+      internalID: 169531055838557235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_28
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 30
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba1ab7408db956e0800000000000000
+      internalID: -1848237813402035524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_29
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 30
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86e1567491ba01f0800000000000000
+      internalID: -1077853909603457393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_30
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 30
+        width: 77
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c59ce00c084df80800000000000000
+      internalID: -8082693868853044143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_31
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 30
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e430d4791e1cc90800000000000000
+      internalID: -7151186693339263460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_32
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 30
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade2b2f63202da690800000000000000
+      internalID: -7589374460488372518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_33
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 4
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdd99fe36bd3ed00800000000000000
+      internalID: 1000884764474465718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_34
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 0
+        width: 29
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711f7c9aacd8ead00800000000000000
+      internalID: 985881270012080407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424891597096dc990800000000000000
+      internalID: -7364114334393727964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_36
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 77
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b20132b8e6f9980800000000000000
+      internalID: -8529977625348658328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_37
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 30
+        width: 77
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d1d9275e0d60290800000000000000
+      internalID: -7924416810422821594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_38
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcd161fd06768cf0800000000000000
+      internalID: -250382927016108843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_39
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 0
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08898de38ede1100800000000000000
+      internalID: 80746501546543118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_40
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 30
+        width: 77
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d5d0cd1934c08e0800000000000000
+      internalID: -1725930263448560334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_41
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab05a86a0a27a2f40800000000000000
+      internalID: 5704497912332570810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_42
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 30
+        width: 77
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97402b082e454da90800000000000000
+      internalID: -7290108565007498119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_43
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 0
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f2631b9c4711820800000000000000
+      internalID: 2887217245731565336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_44
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 0
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ee6092505ba1070800000000000000
+      internalID: 8077967915410189847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_45
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 0
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8dd48ecec4c3560800000000000000
+      internalID: 7294790076826769663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_46
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fbbba2eca7509d0800000000000000
+      internalID: -2808703766696837357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_47
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bc8f89a61970700800000000000000
+      internalID: 506533370121472886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodEndingText_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1287
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f4bd48b1a2d6746bd597108359b8d3
+      internalID: 762754857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ba8d0eee92bb418439c79409ef135db4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GoodEndingText_0: -3017259269695106671
+      GoodEndingText_1: -650408107069111419
+      GoodEndingText_10: -5439756858675258571
+      GoodEndingText_11: 8436313609593849807
+      GoodEndingText_12: -5118871893169454188
+      GoodEndingText_13: 5222725810912307423
+      GoodEndingText_14: 6452657326636940595
+      GoodEndingText_15: 8761881566084113952
+      GoodEndingText_16: 5632444222352165154
+      GoodEndingText_17: -5614631231289339020
+      GoodEndingText_18: 8985159546572262100
+      GoodEndingText_19: -3738589139095863999
+      GoodEndingText_2: -3303520225899297541
+      GoodEndingText_20: 4794314227518068229
+      GoodEndingText_21: 5339972106919942342
+      GoodEndingText_22: 4056999532303792080
+      GoodEndingText_23: -7081398673814498770
+      GoodEndingText_24: -5522614813935098199
+      GoodEndingText_25: 2724660294962584069
+      GoodEndingText_26: -2540612863399620428
+      GoodEndingText_27: 169531055838557235
+      GoodEndingText_28: -1848237813402035524
+      GoodEndingText_29: -1077853909603457393
+      GoodEndingText_3: 7510374579223253663
+      GoodEndingText_30: -8082693868853044143
+      GoodEndingText_31: -7151186693339263460
+      GoodEndingText_32: -7589374460488372518
+      GoodEndingText_33: 1000884764474465718
+      GoodEndingText_34: 985881270012080407
+      GoodEndingText_35: -7364114334393727964
+      GoodEndingText_36: -8529977625348658328
+      GoodEndingText_37: -7924416810422821594
+      GoodEndingText_38: -250382927016108843
+      GoodEndingText_39: 80746501546543118
+      GoodEndingText_4: -5574789981654440935
+      GoodEndingText_40: -1725930263448560334
+      GoodEndingText_41: 5704497912332570810
+      GoodEndingText_42: -7290108565007498119
+      GoodEndingText_43: 2887217245731565336
+      GoodEndingText_44: 8077967915410189847
+      GoodEndingText_45: 7294790076826769663
+      GoodEndingText_46: -2808703766696837357
+      GoodEndingText_47: 506533370121472886
+      GoodEndingText_48: 762754857
+      GoodEndingText_5: 3303067058176090771
+      GoodEndingText_6: -1423147487256581511
+      GoodEndingText_7: -879376614057940195
+      GoodEndingText_8: 7402547030907443660
+      GoodEndingText_9: 9085448497127766
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
