@@ -12,7 +12,7 @@ public class GameStart : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0))
         {
-            SceneManager.LoadScene ("01_Ingame");
+            SceneManager.LoadScene ("01_Lobby");
         }
     }
 }

@@ -1,26 +1,28 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
     public static GameManager Instance;
+    public bool isPaused = false;
 
-    public bool IsPaused { get; private set; } = false;
-
-    private void Awake()
-    {
+    void Awake() {
         if (Instance == null) Instance = this;
         else Destroy(gameObject);
+        DontDestroyOnLoad(gameObject);
     }
 
-    public void PauseGame()
-    {
-        IsPaused = true;
-        Time.timeScale = 0f;
+    public void PauseGame() {
+        isPaused = true;
+        Time.timeScale = 0;
     }
 
-    public void ResumeGame()
-    {
-        IsPaused = false;
-        Time.timeScale = 1f;
+    public void ResumeGame() {
+        isPaused = false;
+        Time.timeScale = 1;
+    }
+
+    public void LoadNewScene(string sceneName) {
+        SceneManager.LoadScene(sceneName);
     }
 }

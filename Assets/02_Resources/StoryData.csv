@@ -1,1 +1,8 @@
-癤�
+ID,Speaker,Context,NextID,Type
+100,-,(화면을 클릭하면 게임이 시작됩니다),101,Dialog
+101,철수,"""Hello world!""",102,Dialog
+102,철수,"""클릭을 했다""",103,Dialog
+103,시스템,선택하십시오,"201,301",Choice
+200,-,[선택지 1] / [선택지 2],-,Text
+201,-,02_Subway,-,Scene
+301,-,03_Ending,-,Scene
