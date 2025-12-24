@@ -29,4 +29,16 @@ public class BtnAction : MonoBehaviour
                 break;
         }
     }
+    // 이동 버튼을 관리하는 스크립트 내 함수
+    public void BackToTitle()
+    {
+        // 1. 데이터 리셋
+        if (GameManager.Instance != null)
+        {
+            GameManager.Instance.ResetGameData();
+        }
+
+        // 2. 타이틀 씬 로드
+        SceneManager.LoadScene("TitleScene");
+    }
 }

@@ -15,14 +15,17 @@ EditorBuildSettings:
     path: Assets/00_Scenes/02_Subway.unity
     guid: 5b6ce8c763c17a540ac09b5ab38839f1
   - enabled: 1
-    path: Assets/00_Scenes/03_BadEnding.unity
-    guid: 3c8c688e815a25a4fb657b023ce6f050
+    path: Assets/00_Scenes/03_Subway2.unity
+    guid: c78de9fb8b132584bb8826ba4df0d98a
   - enabled: 1
     path: Assets/00_Scenes/04_NormalEnding.unity
     guid: 27289cbf2bb82c349af3f2927b6758f6
   - enabled: 1
     path: Assets/00_Scenes/05_GoodEnding.unity
     guid: eb0c0cd3cc256f74ca9911f0058dacfb
+  - enabled: 1
+    path: Assets/00_Scenes/06_BadEnding.unity
+    guid: 3c8c688e815a25a4fb657b023ce6f050
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

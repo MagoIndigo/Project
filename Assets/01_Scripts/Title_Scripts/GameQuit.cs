@@ -2,13 +2,10 @@ using UnityEngine;
 
 public class GameQuit : MonoBehaviour
 {
-
     // Update is called once per frame
-    void Update()
+    public void QuitGame()
     {
-        if (Input.GetMouseButtonDown(0))
-        {
-            Application.Quit();
-        }
+        Debug.Log("게임 종료!");
+        Application.Quit();
     }
 }
