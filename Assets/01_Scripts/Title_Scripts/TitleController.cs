@@ -12,6 +12,7 @@ public class TitleController : MonoBehaviour
         if (GameManager.Instance != null)
         {
             // GameManager를 통해 씬 이동과 시작 ID 전달
+            GameManager.Instance.ResetGameData();
             GameManager.Instance.GoToNextScene(firstSceneName, startID);
         }
         else
