@@ -134,6 +134,65 @@ AudioSource:
   m_CorrespondingSourceObject: {fileID: 3637670473401532076, guid: 4e1643b6fc3458b42bbb1e76955eb7df, type: 3}
   m_PrefabInstance: {fileID: 5914418830419307701}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &509572241
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 509572243}
+  - component: {fileID: 509572242}
+  m_Layer: 0
+  m_Name: VisualNovelManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &509572242
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 509572241}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb61ddd96eec34443a7d8e51193627e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::VisualNovelManager
+  parser: {fileID: 0}
+  nameText: {fileID: 5914418830419307704}
+  contextText: {fileID: 5914418830419307703}
+  sceneCountText: {fileID: 0}
+  choicePanel: {fileID: 117098542}
+  choiceButtons:
+  - {fileID: 1144454983}
+  - {fileID: 696362797}
+  choiceTexts:
+  - {fileID: 879017992}
+  - {fileID: 1012527396}
+  dialogPanel: {fileID: 5914418830419307702}
+  currentID: 600
+  typingSpeed: 0.03
+  endingThreshold: 2
+--- !u!4 &509572243
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 509572241}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 320, y: 174, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &696362797 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 1125437511504852995, guid: 62bfe025f5b2ad946a0eebf36e6ddec9, type: 3}
@@ -590,6 +649,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ChoicePanel
       objectReference: {fileID: 0}
+    - target: {fileID: 771256771784532889, guid: 62bfe025f5b2ad946a0eebf36e6ddec9, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1125437511504852995, guid: 62bfe025f5b2ad946a0eebf36e6ddec9, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -771,95 +834,42 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5722555703438802693, guid: 4e1643b6fc3458b42bbb1e76955eb7df, type: 3}
-      propertyPath: m_Pivot.x
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 5722555703438802693, guid: 4e1643b6fc3458b42bbb1e76955eb7df, type: 3}
-      propertyPath: m_Pivot.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5722555703438802693, guid: 4e1643b6fc3458b42bbb1e76955eb7df, type: 3}
-      propertyPath: m_AnchorMax.x
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 5722555703438802693, guid: 4e1643b6fc3458b42bbb1e76955eb7df, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5722555703438802693, guid: 4e1643b6fc3458b42bbb1e76955eb7df, type: 3}
-      propertyPath: m_AnchorMin.x
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 5722555703438802693, guid: 4e1643b6fc3458b42bbb1e76955eb7df, type: 3}
-      propertyPath: m_AnchorMin.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5722555703438802693, guid: 4e1643b6fc3458b42bbb1e76955eb7df, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 7653927131202010809, guid: 4e1643b6fc3458b42bbb1e76955eb7df, type: 3}
       propertyPath: m_Name
       value: DialogPanel
-      objectReference: {fileID: 0}
-    - target: {fileID: 7789930180595827775, guid: 4e1643b6fc3458b42bbb1e76955eb7df, type: 3}
-      propertyPath: choicePanel
-      value: 
-      objectReference: {fileID: 117098542}
-    - target: {fileID: 7789930180595827775, guid: 4e1643b6fc3458b42bbb1e76955eb7df, type: 3}
-      propertyPath: 'choiceTexts.Array.data[0]'
-      value: 
-      objectReference: {fileID: 879017992}
-    - target: {fileID: 7789930180595827775, guid: 4e1643b6fc3458b42bbb1e76955eb7df, type: 3}
-      propertyPath: 'choiceTexts.Array.data[1]'
-      value: 
-      objectReference: {fileID: 1012527396}
-    - target: {fileID: 7789930180595827775, guid: 4e1643b6fc3458b42bbb1e76955eb7df, type: 3}
-      propertyPath: 'choiceButtons.Array.data[0]'
-      value: 
-      objectReference: {fileID: 1144454983}
-    - target: {fileID: 7789930180595827775, guid: 4e1643b6fc3458b42bbb1e76955eb7df, type: 3}
-      propertyPath: 'choiceButtons.Array.data[1]'
-      value: 
-      objectReference: {fileID: 696362797}
-    - target: {fileID: 8902727418956178565, guid: 4e1643b6fc3458b42bbb1e76955eb7df, type: 3}
-      propertyPath: m_Pivot.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8902727418956178565, guid: 4e1643b6fc3458b42bbb1e76955eb7df, type: 3}
-      propertyPath: m_Pivot.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8902727418956178565, guid: 4e1643b6fc3458b42bbb1e76955eb7df, type: 3}
-      propertyPath: m_AnchorMax.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8902727418956178565, guid: 4e1643b6fc3458b42bbb1e76955eb7df, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8902727418956178565, guid: 4e1643b6fc3458b42bbb1e76955eb7df, type: 3}
-      propertyPath: m_AnchorMin.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8902727418956178565, guid: 4e1643b6fc3458b42bbb1e76955eb7df, type: 3}
-      propertyPath: m_AnchorMin.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8902727418956178565, guid: 4e1643b6fc3458b42bbb1e76955eb7df, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8902727418956178565, guid: 4e1643b6fc3458b42bbb1e76955eb7df, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 52
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4e1643b6fc3458b42bbb1e76955eb7df, type: 3}
+--- !u!1 &5914418830419307702 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7653927131202010809, guid: 4e1643b6fc3458b42bbb1e76955eb7df, type: 3}
+  m_PrefabInstance: {fileID: 5914418830419307701}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &5914418830419307703 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3873145326308891936, guid: 4e1643b6fc3458b42bbb1e76955eb7df, type: 3}
+  m_PrefabInstance: {fileID: 5914418830419307701}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
+--- !u!114 &5914418830419307704 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7293504207147257947, guid: 4e1643b6fc3458b42bbb1e76955eb7df, type: 3}
+  m_PrefabInstance: {fileID: 5914418830419307701}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -867,3 +877,4 @@ SceneRoots:
   - {fileID: 2081966293}
   - {fileID: 1258392434}
   - {fileID: 1852548808}
+  - {fileID: 509572243}

@@ -248,7 +248,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0, y: 15}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 600, y: 110}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!222 &6697266079887641257
@@ -665,7 +665,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 0, y: 58}
+  m_AnchoredPosition: {x: 0, y: 52}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0, y: 1}
 --- !u!222 &6960449007120238224
@@ -717,14 +717,13 @@ GameObject:
   - component: {fileID: 253965926246163435}
   - component: {fileID: 4131629137309695914}
   - component: {fileID: 5867561444919336502}
-  - component: {fileID: 7789930180595827775}
   m_Layer: 5
   m_Name: DialogPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &253965926246163435
 RectTransform:
   m_ObjectHideFlags: 0
@@ -784,32 +783,6 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!114 &7789930180595827775
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7653927131202010809}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fb61ddd96eec34443a7d8e51193627e5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::VisualNovelManager
-  parser: {fileID: 0}
-  nameText: {fileID: 7293504207147257947}
-  contextText: {fileID: 3873145326308891936}
-  sceneCountText: {fileID: 0}
-  choicePanel: {fileID: 0}
-  choiceButtons:
-  - {fileID: 0}
-  - {fileID: 0}
-  choiceTexts:
-  - {fileID: 0}
-  - {fileID: 0}
-  currentID: 600
-  typingSpeed: 0.03
-  endingThreshold: 2
 --- !u!1 &7926222456692838179
 GameObject:
   m_ObjectHideFlags: 0

@@ -16,6 +16,7 @@ public class VisualNovelManager : MonoBehaviour
     public GameObject choicePanel;
     public Button[] choiceButtons;
     public TMP_Text[] choiceTexts;
+    public GameObject dialogPanel;
 
     // [자동 할당] 인스펙터에서 연결하지 않아도 Start에서 스스로 찾습니다.
     private AudioSource bgmSource;
@@ -34,6 +35,7 @@ public class VisualNovelManager : MonoBehaviour
     {
         if (choicePanel != null) choicePanel.SetActive(false);
 
+        
         // 오디오 소스 자동 설정 및 초기화
         bgmSource = GetComponent<AudioSource>();
         if (bgmSource == null) bgmSource = gameObject.AddComponent<AudioSource>();
@@ -90,6 +92,8 @@ public class VisualNovelManager : MonoBehaviour
 
     public void ShowDialog(int id)
     {
+        
+
         if (parser == null || !parser.dialogDictionary.ContainsKey(id)) return;
         DialogData data = parser.dialogDictionary[id];
 
@@ -121,6 +125,11 @@ public class VisualNovelManager : MonoBehaviour
 
         bool hasChoice = !string.IsNullOrEmpty(data.choice1_context) && data.choice1_context.Trim().Length > 0;
         onTypingComplete = hasChoice ? (System.Action)(() => ShowChoices(data)) : null;
+        
+        if (dialogPanel != null && !dialogPanel.activeSelf)
+        {
+            dialogPanel.SetActive(true);
+        }
 
         StartCoroutine(TypeText(fullText));
     }
